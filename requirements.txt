@@ -1,0 +1,13 @@
+openai
+langchain
+langchain_openai
+langchain-groq
+flask
+customtkinter
+langchain-community
+html2text
+newspaper3k
+feedparser
+listparser
+lxml==5.1.1
+langsmith

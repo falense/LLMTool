@@ -1,0 +1,4 @@
+.secrets*
+*.pdf
+
+__pycache__/
